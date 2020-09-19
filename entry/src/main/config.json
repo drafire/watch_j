@@ -46,6 +46,26 @@
         "label": "tv_j",
         "type": "page",
         "launchType": "standard"
+      },
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.countDown"
+            ],
+            "actions": [
+              "action.system.countDown"
+            ]
+          }
+        ],
+        "orientation": "landscape",
+        "formEnabled": false,
+        "name": "com.drafire.tv_j.CountDonwAbility",
+        "icon": "$media:icon",
+        "description": "$string:cuntdonwability_description",
+        "label": "tv_j",
+        "type": "page",
+        "launchType": "standard"
       }
     ]
   }
