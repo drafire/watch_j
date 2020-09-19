@@ -1,4 +1,4 @@
-package com.drafire.tv_j.model;
+package com.drafire.watch.model;
 
 /**
  * 训练模型

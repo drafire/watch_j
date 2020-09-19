@@ -1,6 +1,6 @@
-package com.drafire.tv_j;
+package com.drafire.watch;
 
-import com.drafire.tv_j.slice.MainAbilitySlice;
+import com.drafire.watch.slice.MainAbilitySlice;
 import ohos.aafwk.ability.Ability;
 import ohos.aafwk.content.Intent;
 

@@ -1,17 +1,11 @@
-package com.drafire.tv_j.slice;
+package com.drafire.watch.slice;
 
-import com.drafire.tv_j.ResourceTable;
+import com.drafire.watch.ResourceTable;
 import ohos.aafwk.ability.AbilitySlice;
 import ohos.aafwk.content.Intent;
 
 import ohos.agp.components.Component;
-import ohos.agp.components.DirectionalLayout;
-import ohos.agp.components.DirectionalLayout.LayoutConfig;
 import ohos.agp.components.Text;
-import ohos.agp.colors.RgbColor;
-import ohos.agp.components.element.ShapeElement;
-import ohos.agp.utils.Color;
-import ohos.agp.utils.TextAlignment;
 
 public class CountDonwAbilitySlice extends AbilitySlice {
 

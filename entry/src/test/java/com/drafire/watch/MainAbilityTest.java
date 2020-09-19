@@ -1,4 +1,4 @@
-package com.drafire.tv_j;
+package com.drafire.watch;
 
 import org.junit.Test;
 

@@ -1,8 +1,8 @@
-package com.drafire.tv_j;
+package com.drafire.watch;
 
 import ohos.aafwk.ability.AbilityPackage;
 
-public class tv_j extends AbilityPackage {
+public class watch extends AbilityPackage {
     @Override
     public void onInitialize() {
         super.onInitialize();

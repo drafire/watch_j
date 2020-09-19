@@ -1,10 +1,8 @@
-package com.drafire.tv_j.slice;
+package com.drafire.watch.slice;
 
-import com.drafire.tv_j.ResourceTable;
-import com.drafire.tv_j.model.Pratice;
+import com.drafire.watch.ResourceTable;
 import ohos.aafwk.ability.AbilitySlice;
 import ohos.aafwk.content.Intent;
-import ohos.aafwk.content.IntentParams;
 import ohos.agp.components.Button;
 import ohos.agp.components.Component;
 

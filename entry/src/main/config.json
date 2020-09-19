@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.drafire.tv_j",
+    "bundleName": "com.drafire.watch",
     "vendor": "drafire",
     "version": {
       "code": 1,
@@ -13,8 +13,8 @@
   },
   "deviceConfig": {},
   "module": {
-    "package": "com.drafire.tv_j",
-    "name": ".tv_j",
+    "package": "com.drafire.watch",
+    "name": ".watch",
     "reqCapabilities": [
       "video_support"
     ],
@@ -40,10 +40,10 @@
         ],
         "orientation": "landscape",
         "formEnabled": false,
-        "name": "com.drafire.tv_j.MainAbility",
+        "name": "com.drafire.watch.MainAbility",
         "icon": "$media:icon",
         "description": "$string:mainability_description",
-        "label": "tv_j",
+        "label": "watch",
         "type": "page",
         "launchType": "standard"
       },
@@ -60,10 +60,10 @@
         ],
         "orientation": "landscape",
         "formEnabled": false,
-        "name": "com.drafire.tv_j.CountDonwAbility",
+        "name": "com.drafire.watch.CountDonwAbility",
         "icon": "$media:icon",
         "description": "$string:cuntdonwability_description",
-        "label": "tv_j",
+        "label": "watch",
         "type": "page",
         "launchType": "standard"
       }
