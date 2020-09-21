@@ -66,6 +66,16 @@
         "label": "watch",
         "type": "page",
         "launchType": "standard"
+      },
+      {
+        "orientation": "landscape",
+        "formEnabled": false,
+        "name": "com.drafire.watch.PraticeAbility",
+        "icon": "$media:icon",
+        "description": "$string:praticeability_description",
+        "label": "entry",
+        "type": "page",
+        "launchType": "standard"
       }
     ]
   }

@@ -8,7 +8,6 @@
         ohos:id="$+id:text"
         ohos:width="match_parent"
         ohos:height="match_parent"
-        ohos:center_in_parent="true"
         ohos:text_color="red"
         ohos:top_margin="100px"
         ohos:text_alignment="center"
@@ -24,7 +23,5 @@
             ohos:right_padding="80vp"
             ohos:left_padding="80vp"
             ohos:text_color="white"
-            ohos:background_element="$graphic:button_element"
-            ohos:center_in_parent="true"
-            ohos:align_parent_bottom="true"/>
+            ohos:background_element="$graphic:button_element"/>
 </DirectionalLayout>
