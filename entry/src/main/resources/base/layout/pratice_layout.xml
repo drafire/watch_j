@@ -55,8 +55,8 @@
             ohos:text_font="serif"/>
     <Button
             ohos:id="$+id:btnStart"
-            ohos:width="match_content"
-            ohos:height="match_content"
+            ohos:width="match_parent"
+            ohos:height="match_parent"
             ohos:text_size="19fp"
             ohos:text="点击开始"
             ohos:align_parent_end="true"
